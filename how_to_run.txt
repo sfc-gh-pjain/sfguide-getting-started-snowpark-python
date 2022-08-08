@@ -1,0 +1,2 @@
+cd /Users/pjain/git/sfguide-getting-started-snowpark-python/customer-churn-prediction
+$ jupyter notebook
